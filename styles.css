@@ -71,6 +71,7 @@ code.sudo { /* Khusus untuk class sudo */
 
 a {
 	color: #328E6E;
+	text-decoration: none;
 }
 
 h1 {
